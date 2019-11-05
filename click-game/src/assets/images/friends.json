@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "name": "Rachel",
+        "image": "url",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "name": "Ross",
+        "image": "url",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "name": "Joey",
+        "image": "url",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "name": "Monica",
+        "image": "url",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "name": "Phoebe",
+        "image": "url",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "name": "Chandler",
+        "image": "url",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "name": "RudeRachel",
+        "image": "url",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "name": "RadRoss",
+        "image": "url",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "name": "MadMonica",
+        "image": "url",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "name": "JoyfulJoey",
+        "image": "url",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "name": "PissedPhoebe",
+        "image": "url",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "name": "CheerfulChandler",
+        "image": "url",
+        "clicked": false
+    }
+
+]
